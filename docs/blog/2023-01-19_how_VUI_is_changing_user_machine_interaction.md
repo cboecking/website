@@ -34,4 +34,16 @@ This is because of natural language understanding (NLU), and natural language pr
 
 Users are now actively choosing to speak with the machine, and with the increase of AI assistants and VUI devices, we’ll soon discover even more usages and ways to apply Voice Interfaces to our applications and web pages and the undeniable effects these interactions will have on business-customer machine-user relationships. 
 
+### Connect with us 
+
+Fonoster is developed in the open. Here are some of the channels you can use to reach us: 
+
+[Discord](https://discord.gg/mpWSRUhG7e)
+
+**GitHub discussions:**
+- [Q&A](https://github.com/fonoster/fonoster/discussions/categories/q-a) 
+
+**Twitter:** [@fonoster](https://twitter.com/fonoster)
+
+
 
