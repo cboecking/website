@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://learn.fonoster.dev/blog</id>
     <title>Fonoster Blog</title>
-    <updated>2023-02-23T00:00:00.000Z</updated>
+    <updated>2023-02-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://learn.fonoster.dev/blog"/>
     <subtitle>Fonoster Blog</subtitle>
     <icon>https://learn.fonoster.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Differences in types of Conversational Interfaces]]></title>
+        <id>Differences in types of Conversational Interfaces</id>
+        <link href="https://learn.fonoster.dev/blog/Differences in types of Conversational Interfaces"/>
+        <updated>2023-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are 3 main types of Conversational Interfaces.]]></summary>
+        <content type="html"><![CDATA[<p>There are 3 main types of Conversational Interfaces. </p><p>Depending on the most appropiate for your users we can stablish some very clear differences and elements in common between them.</p><p><img loading="lazy" src="https://user-images.githubusercontent.com/80093500/221926362-2f81e5d9-ad15-4c61-8b5e-2c2fe9ce5002.png" alt="Conceptual diagram of speech systems (3)" class="img_ev3q"></p><table><thead><tr><th>Voice Applications</th><th>Text Applications</th><th>Multimodal Applications</th></tr></thead><tbody><tr><td>Voice commands</td><td>Text Commands</td><td>Voice or Text Commands</td></tr><tr><td>Audible response from assistant</td><td>Written response from assistant with sound</td><td>Written or audible response from assistant</td></tr><tr><td>Audible list of options</td><td>Written list of options</td><td>Audible or written list of options</td></tr><tr><td>Descriptive options for user</td><td>Video or Images to help the user make a choice</td><td>Video or Images to help the user make a choice</td></tr><tr><td>Sometimes button is present to help start or end conversation</td><td>Button available to make certain selections easier</td><td>Button available to make certain selections easier</td></tr></tbody></table><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="join-the-conversation">Join the conversation<a class="hash-link" href="#join-the-conversation" title="Direct link to heading">​</a></h3><p>Fonoster is developed in the open. Here are some of the channels you can use to reach us: </p><p><a href="https://discord.gg/mpWSRUhG7e" target="_blank" rel="noopener noreferrer">Discord</a></p><p><strong>GitHub discussions:</strong></p><ul><li><a href="https://github.com/fonoster/fonoster/discussions/categories/q-a" target="_blank" rel="noopener noreferrer">Q&amp;A</a> </li></ul><p><strong>Twitter:</strong> <a href="https://twitter.com/fonoster" target="_blank" rel="noopener noreferrer">@fonoster</a></p>]]></content>
+        <author>
+            <name>Yuri Santana</name>
+            <uri>https://github.com/yuricodes</uri>
+        </author>
+        <category label="fonoster" term="fonoster"/>
+        <category label="voice" term="voice"/>
+        <category label="OSS" term="OSS"/>
+        <category label="VUI" term="VUI"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The most common user interface design elements]]></title>
         <id>common user interface design elements</id>
