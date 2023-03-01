@@ -14,6 +14,10 @@ Depending on the most appropriate for your users, we can establish some very cle
 
 **Voice applications** 
 
+They let you complete your task and control your device with spoken commands. In return you'll get audible responses from the application. 
+
+These are the elements of a voice-only interface: 
+
 - Voice commands 
 - Audible response from assistant 
 - Audible list of options 
@@ -21,6 +25,10 @@ Depending on the most appropriate for your users, we can establish some very cle
 - Sometimes a button is present to help start or end conversation 
 
 **Text applications**
+
+Also known as chat applications, they allow the user to complete their task and interact with the interface by sending and receiving messages.
+
+These are the elements of a text-only interface: 
 
 - Text Commands
 - Written response from assistant with sound 
@@ -30,6 +38,9 @@ Depending on the most appropriate for your users, we can establish some very cle
 
 **Multimodal applications**
 
+They allow the user to interact with the interface by combining different features from voice and text, taking advantage of the strengths of each. 
+
+These are the elements of a multimodal interface: 
 
 - Voice or Text Commands
 - Written or audible response from assistant
