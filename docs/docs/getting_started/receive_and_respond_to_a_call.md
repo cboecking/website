@@ -14,4 +14,4 @@ Start your app
 LOGS_LEVEL=verbose node index.js
 ```
 
-If everything goes well, you will see a series of logs on your terminal.
+You will see a series of logs on your terminal.
