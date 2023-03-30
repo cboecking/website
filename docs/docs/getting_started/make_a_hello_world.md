@@ -11,6 +11,8 @@ If you don't have one yet have an account, you can [Sign up](https://console.fon
 ## What you will need:
 
 - Fonoster Account
+- nodejs
+- npm
 - Ngrok
 - Node version 16+
 - Git (optional)
