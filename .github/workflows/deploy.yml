@@ -15,6 +15,11 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: 🚀 Setup node v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
       - name: 📦 Build docs application
         working-directory: ./docs
         run: npm install --force && npm run build
